@@ -15,7 +15,7 @@ int main()
     cin >> SS;
     TOTAL = E + H + M + S + SS;
     P = TOTAL / 5;
-    cout << "TOTAL PERCENTAGE of joshi IS " << P;
+    cout << "TOTAL PERCENTAGE of joshi g IS " << P;
 
     return 0;
 }
