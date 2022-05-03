@@ -4,6 +4,7 @@ int main()
 {
     float f, c;
     cout << "enter the value of c" << endl;
+    //fhfhtyfhtfhytftyu
     cin >> c;
     f = c * (1.800) + 32.00;
 
