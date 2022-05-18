@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     char ch;
-    cout << "enter any alphabet" << endl;
+    cout << "enter any alphabets..." << endl;
     cin >> ch;
     if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
     {
