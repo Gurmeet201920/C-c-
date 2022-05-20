@@ -1,4 +1,4 @@
-//add two numbers..
+//add two numbers....
 #include <bits/stdc++.h>
 using namespace std;
 int main()
