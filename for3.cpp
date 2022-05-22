@@ -7,7 +7,7 @@ int main()
     cin >> n;
     for (int i = 0; i < n; i++)
     {
-        cout << "Gurmeet Singh" << endl;
+        cout << "Choudhary Gurmeet Singh" << endl;
     }
     return 0;
 }
