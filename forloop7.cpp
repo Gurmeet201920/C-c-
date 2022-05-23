@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int no, sum = 0;
-    cout << "enter any number\n";
+    cout << "enter any numbers\n";
     cin >> no;
     cout << "natural no from 1 to " << no << "is given below\n";
     for (int i = 1; i <= no; i++)
