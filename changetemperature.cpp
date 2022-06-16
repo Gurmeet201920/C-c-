@@ -1,4 +1,4 @@
-//change temperature degree to faranite
+//change temperature degree to faranite.
 #include <bits/stdc++.h>
 using namespace std;
 int main()
