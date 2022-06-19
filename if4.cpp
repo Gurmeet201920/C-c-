@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     float p;
-    cout << "enter your percent\n";
+    cout << "enter your percent"endl;
     cin >> p;
     if (p >= 90)
         cout << "pass";
