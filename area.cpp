@@ -1,4 +1,4 @@
-//area of the circle
+//area of the circle.
 #include <bits/stdc++.h>
 using namespace std;
 int main()
