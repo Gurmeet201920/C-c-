@@ -1,4 +1,4 @@
-//power of any natural number
+//power of any natural number.
 #include <bits/stdc++.h>
 using namespace std;
 int main()
