@@ -1,4 +1,4 @@
-// pass fail program 
+// pass fail program .
 #include <bits/stdc++.h>
 using namespace std;
 int main()
