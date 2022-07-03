@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
     int b, p, f = 1;
-    cout << "enter base\n";
+    cout << "enter base"<<endl;
     cin >> b;
-    cout << "enter power\n";
+    cout << "enter power"<<endl;
     cin >> p;
     for (int i = 1; i <= p; i++)
     {
