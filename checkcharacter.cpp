@@ -1,4 +1,4 @@
-//check characters
+//check characters.
 #include <bits/stdc++.h>
 using namespace std;
 int main()
