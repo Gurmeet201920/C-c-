@@ -1,4 +1,4 @@
-// Hello word program.
+// Hello word program..
 #include <bits/stdc++.h>
 using namespace std;
 int main()
