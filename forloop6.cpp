@@ -1,4 +1,4 @@
-//printing reverse number program
+//printing reverse number program.
 #include <bits/stdc++.h>
 using namespace std;
 int main()
