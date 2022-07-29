@@ -1,4 +1,4 @@
-//Odd even program.
+//Odd even program..
 #include <bits/stdc++.h>
 using namespace std;
 int main()
